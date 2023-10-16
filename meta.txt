@@ -1,0 +1,29 @@
+Task:
+Develop a EAN scraper based on the given brand name. This scraper lists all websites, EAN's, product title, sales prices it can find for each EAN from that brand.
+
+Config:
+ChatEnvConfig.clear_structure: True
+ChatEnvConfig.brainstorming: False
+
+
+Roster:
+Chief Executive Officer, Counselor, Chief Human Resource Officer, Chief Product Officer, Chief Technology Officer, Programmer, Code Reviewer, Software Test Engineer, Chief Creative Officer
+
+Modality:
+web application
+
+Ideas:
+
+
+Language:
+ Python
+
+Code_Version:
+6.0
+
+Proposed_images:
+0
+
+Incorporated_images:
+0
+
